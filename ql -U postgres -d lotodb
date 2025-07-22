@@ -1,0 +1,18 @@
+                                 List of databases
+     Name     |  Owner   | Encoding | Collate |  Ctype  |     Access privileges     
+--------------+----------+----------+---------+---------+---------------------------
+ loto_api_db  | postgres | UTF8     | C.UTF-8 | C.UTF-8 | =Tc/postgres             +
+              |          |          |         |         | postgres=CTc/postgres    +
+              |          |          |         |         | root=CTc/postgres
+ loto_db      | postgres | UTF8     | C.UTF-8 | C.UTF-8 | 
+ lotodb       | postgres | UTF8     | C.UTF-8 | C.UTF-8 | 
+ postgres     | postgres | UTF8     | C.UTF-8 | C.UTF-8 | 
+ project_test | postgres | UTF8     | C.UTF-8 | C.UTF-8 | =Tc/postgres             +
+              |          |          |         |         | postgres=CTc/postgres    +
+              |          |          |         |         | project_user=CTc/postgres
+ template0    | postgres | UTF8     | C.UTF-8 | C.UTF-8 | =c/postgres              +
+              |          |          |         |         | postgres=CTc/postgres
+ template1    | postgres | UTF8     | C.UTF-8 | C.UTF-8 | =c/postgres              +
+              |          |          |         |         | postgres=CTc/postgres
+(7 rows)
+
